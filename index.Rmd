@@ -1,0 +1,58 @@
+---
+title: "Tikam SIngh Walia"
+image: "tikam.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/tikam-singh-6832a44b/"
+ 
+  - label: GitHub
+    url: "https://github.com/tanishq-walia"
+  - label: Email
+    url: "walia.tanishq@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Data scientist with 3.5 + years of experience in executing data-driven solutions.
+Created statistical & machine, learning models. Analyzed vast volumes of
+data to deliver insights and implement action-oriented solutions to complex business problems.
+
+Proficient in Statistical modeling and machine learning algorithms (Regression and Classification ).Has proven skills to work in analytics-related Open Sources and associated technologies such as R, Python, Tableau, SQL, and Excel.
+
+Maintaining a high degree of familiarity with relevant emerging trends in the Analytics environment.
+
+
+## Education
+
+**Center for Developmenmt of Advanced Computing ** | NOIDA, UP
+
+PGD - Big Data Analytics  
+
+** Dr. A.P.J. Abdul Kalam Technical University University ** | Noida, UP
+
+BTech in Computer Science | 
+
+## Skills
+● R Programming
+● Python
+● SQL
+● Excel
+● Tableau
+● PowerBI
+● Statistics
+● Hypotheses Testing
+● Machine Learning
+Algorithms
+● Regression
+● Classification
+
+## Experience
+
+**Midland Credit Management** Data Scientist at Midland Credit Management
+20/10/2022 - Present
+
+**atozwebsolution** | Data  Analyst |
+
+## To be update ...

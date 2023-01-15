@@ -1,0 +1,23 @@
+---
+title: "After-Dafter"
+author: "Tikam SIngh walia"
+date: "2023-01-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(distill)
+#create_website(dir = ".",title = "Tikam Singh Walia",gh_pages = TRUE)
+```
+
+```{r}
+library(postcards)
+create_article(file = "index",template = "trestles",package = "postcards")
+
+```
+
+

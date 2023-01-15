@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-15T07:20:24+05:30"
+    },
+    {
+      "path": "index.html",
+      "title": "Tikam Singh Walia",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-15T07:20:28+05:30"
+    }
+  ],
+  "collections": []
+}
