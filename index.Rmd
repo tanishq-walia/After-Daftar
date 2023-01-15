@@ -1,5 +1,5 @@
 ---
-title: "Tikam SIngh Walia"
+title: "Tikam Singh Walia"
 image: "tikam.jpg"
 links:
   - label: LinkedIn
